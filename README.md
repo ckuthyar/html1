@@ -1,2 +1,3 @@
 # Learning HTML
-## 16-Apr-2024 Color, Font, Theme picker - guided by Kishan
+## 2024
+### 16-Apr-2024 Color, Font, Theme picker - guided by Kishan
